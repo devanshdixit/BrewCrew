@@ -1,6 +1,6 @@
 # Brew Crew
 
-A Flutter project in which coffee connfig of different users is saved.
+A Flutter project in which users can config there coffee choices and let that one person which is going to order the coffee know who wants what.
 
 ## Getting Started
 
