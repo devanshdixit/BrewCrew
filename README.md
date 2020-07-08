@@ -1,6 +1,6 @@
-# brew_crew
+# Brew Crew
 
-A new Flutter project.
+A Flutter project in which coffee connfig of different users is saved.
 
 ## Getting Started
 
